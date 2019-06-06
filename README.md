@@ -1,5 +1,7 @@
 # simple-java-maven-app
 
+[![Build Status](https://dev.azure.com/sbonu/MyFirstAzureProj/_apis/build/status/bonusrao.my-first-git-app?branchName=master)](https://dev.azure.com/sbonu/MyFirstAzureProj/_build/latest?definitionId=4&branchName=master)
+
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
 tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
